@@ -5,11 +5,15 @@
     "email": "purushottamkumar268@gmail.com",
     "location": "Purnea, Bihar"
   },
+  "profiles": {
+    "github": "https://github.com/kingmakerpratap",
+    "linkedin": "https://www.linkedin.com/in/PurushottamKumarPratap"
+  },
   "objective": "Aspiring Computer Science Engineer with strong foundation in programming, web development, and AI/ML.",
   "education": [
-    {"degree": "B.Tech in CSE", "college": "Govt. Engineering College Vaishali", "session": "2024-27", "cgpa": "7.59"},
-    {"degree": "Diploma in CSE", "college": "Govt. Polytechnic Purnea", "session": "2019-22", "cgpa": "7.93", "percentile": "71.78"},
-    {"degree": "10th", "school": "Shyama High School Bhatotar", "year": "2019", "percentile": "67.40"}
+    {"degree": "B.Tech in CSE", "Persuing college": "Govt. Engineering College Vaishali", "session": "2024-27", "cgpa till 2nd year": "7.59"},
+    {"degree": "Diploma in CSE", "Passed college": "Govt. Polytechnic Purnea", "session": "2019-22", "cgpa": "7.93", "percentile": "71.78"},
+    {"degree": "10th", "Passed school": "Shyama High School Bhatotar", "year": "2019", "percentile": "67.40"}
   ],
   "skills": ["MS Word", "MS Excel", "MS PowerPoint", "CorelDRAW", "Photoshop", "Canva", "Tally Prime with GST"],
   "languages": ["C", "C++", "Java", "Python", "HTML", "CSS", "JavaScript", "PHP", "MySQL"],
