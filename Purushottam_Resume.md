@@ -1,5 +1,7 @@
 # Purushottam Kumar
-📞 +91 7033666962 | 📧 purushottamkumar268@gmail.com | 📍 Purnea, Bihar
+📞 +91 7033666962 | 📧 purushottamkumar268@gmail.com | 📍 Purnea, Bihar  
+**GitHub:** [github.com/kingmakerpratap](https://github.com/kingmakerpratap)  
+**LinkedIn:** [linkedin.com/in/PurushottamKumarPratap](https://www.linkedin.com/in/PurushottamKumarPratap)
 
 ## Objective
 Aspiring Computer Science Engineer with strong foundation in programming, web development, and AI/ML.
